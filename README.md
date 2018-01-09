@@ -102,7 +102,7 @@ class Square: Shape {
 //#######################
 
 class CircleWindowsDraw: Circle {
-    ovveride func draw() {
+    override func draw() {
         // ...
     }
 
@@ -110,7 +110,7 @@ class CircleWindowsDraw: Circle {
 }
 
 class CircleLinuxDraw: Circle {
-    ovveride func draw() {
+    override func draw() {
         // ...
     }
 
@@ -118,7 +118,7 @@ class CircleLinuxDraw: Circle {
 }
 
 class SquareWindowsDraw: Square {
-    ovveride func draw() {
+    override func draw() {
         // ...
     }
 
@@ -126,7 +126,7 @@ class SquareWindowsDraw: Square {
 }
 
 class SquareLinuxDraw: Square {
-    ovveride func draw() {
+    override func draw() {
         // ...
     }
 
