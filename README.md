@@ -421,7 +421,7 @@ let sms = SMS()
 sms.send() // SMS+
 
 let smsAndEmail = SMS(wrapper: Email())
-SMSAndEmail.send() // SMS+Email
+smsAndEmail.send() // SMS+Email
 
 let smsAndEmailAndPush = SMS(wrapper: Email(wrapper: Push()))
 smsAndEmailAndPush.send() // SMS+Email+Push
