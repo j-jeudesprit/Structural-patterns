@@ -540,3 +540,10 @@ class Flyweight2: Flyweight {
 }
 ```
 ![](https://i.imgur.com/OW9AVBp.jpg)
+
+***
+[Proxy](#proxy)  
+--------------      
+![](https://refactoring.guru/images/patterns/content/proxy/proxy-2x.png)   
+  
+**Заместитель** — это структурный паттерн проектирования, который создаёт суррогат другого объекта и контролирует доступ к нему.
