@@ -539,3 +539,4 @@ class Flyweight2: Flyweight {
     // ...
 }
 ```
+![](https://i.imgur.com/OW9AVBp.jpg)
